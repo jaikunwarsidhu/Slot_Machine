@@ -1,3 +1,6 @@
-# COMP397-W2020-Lesson4A
+_Jaikunwar Singh Sidhu_
+_301055060_
+_COMP397-001_
 
-## Demo for Web Game Programming for Game Students @ Centennial
+
+improved assets and added buttons but some problem with some .obj file
