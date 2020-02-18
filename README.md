@@ -1,8 +1,3 @@
-Slot Machine Assignment for Web game programming.
+# COMP397-W2020-Lesson4A
 
-_Jaikunwar Singh Sidhu_
-_301055060_
-_COMP-397-001_
-
-version 1-::-
-Partially complete assignment with assets and the buttons required.
+## Demo for Web Game Programming for Game Students @ Centennial
